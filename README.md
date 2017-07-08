@@ -1,3 +1,9 @@
+2017年7月网门简易二维码
+
+本页长网址:https://github.com/tu01/m/blob/master/README.md?wnel=2017
+
+本页短网址:https://git.io/vQ6MT
+
 <table>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/IMG-20170708-WA0000.jpg" /></td>
